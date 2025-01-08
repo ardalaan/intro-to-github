@@ -1,6 +1,9 @@
 # intro-to-github
+<<<<<<< HEAD
 YO! Boro Jolo!
-Hey tho
+=======
+YO! Jolo Boro!!!
+>>>>>>> edit-readme
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
