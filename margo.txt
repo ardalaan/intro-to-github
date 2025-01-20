@@ -1,1 +1,5 @@
 merge merge
+
+first line
+next line
+yet another line\nand another
